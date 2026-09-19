@@ -1,12 +1,12 @@
 {
   "heartbeat": {
     "last_dispatch": "2026-09-19T22:59:43Z",
-    "last_status": "dispatched",
-    "last_failed": "2026-09-19T16:33:45Z",
-    "total_runs": 45,
+    "last_status": "failed",
+    "last_failed": "2026-09-19T23:00:54Z",
+    "total_runs": 46,
     "total_successes": 0,
-    "total_failures": 45,
-    "consecutive_failures": 45,
+    "total_failures": 46,
+    "consecutive_failures": 46,
     "success_rate": 0,
     "last_error": "hermes -z: --provider requires --model (or HERMES_INFERENCE_MODEL). Pass both explicitly, or neither to use your configured defaults. hermes exited 2:  "
   },
