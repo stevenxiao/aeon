@@ -1,7 +1,7 @@
 {
   "heartbeat": {
-    "last_dispatch": "2026-09-20T21:54:06Z",
-    "last_status": "failed",
+    "last_dispatch": "2026-09-21T07:15:05Z",
+    "last_status": "dispatched",
     "last_failed": "2026-09-20T21:55:22Z",
     "total_runs": 49,
     "total_successes": 0,
@@ -11,7 +11,7 @@
     "last_error": "hermes -z: --provider requires --model (or HERMES_INFERENCE_MODEL). Pass both explicitly, or neither to use your configured defaults. hermes exited 2:  "
   },
   "chain:dev-loop": {
-    "last_dispatch": "2026-09-20T11:10:00Z",
+    "last_dispatch": "2026-09-21T07:15:05Z",
     "last_status": "dispatched"
   }
 }
