@@ -1,14 +1,14 @@
 {
   "heartbeat": {
     "last_dispatch": "2026-09-25T05:23:22Z",
-    "last_status": "dispatched",
-    "last_failed": "2026-09-24T22:22:05Z",
-    "total_runs": 61,
+    "last_status": "failed",
+    "last_failed": "2026-09-25T05:26:31Z",
+    "total_runs": 62,
     "total_successes": 0,
-    "total_failures": 61,
-    "consecutive_failures": 61,
+    "total_failures": 62,
+    "consecutive_failures": 62,
     "success_rate": 0,
-    "last_error": "hermes -z: --provider requires --model (or HERMES_INFERENCE_MODEL). Pass both explicitly, or neither to use your configured defaults. hermes exited 2:  "
+    "last_error": "are in scope and nothing is ever auto-deleted (archive is recoverable).   Preview now:  hermes curator run --dry-run   Pause it:     hermes curator pause   Docs:         https://hermes-agent.nousresea"
   },
   "chain:dev-loop": {
     "last_dispatch": "2026-09-24T10:10:17Z",
