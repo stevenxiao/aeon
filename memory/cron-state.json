@@ -1,14 +1,14 @@
 {
   "heartbeat": {
     "last_dispatch": "2026-09-28T15:59:41Z",
-    "last_status": "dispatched",
-    "last_failed": "2026-09-28T01:45:37Z",
-    "total_runs": 70,
+    "last_status": "failed",
+    "last_failed": "2026-09-28T16:06:04Z",
+    "total_runs": 71,
     "total_successes": 0,
-    "total_failures": 70,
-    "consecutive_failures": 70,
+    "total_failures": 71,
+    "consecutive_failures": 71,
     "success_rate": 0,
-    "last_error": "are in scope and nothing is ever auto-deleted (archive is recoverable).   Preview now:  hermes curator run --dry-run   Pause it:     hermes curator pause   Docs:         https://hermes-agent.nousresea"
+    "last_error": "tor run --dry-run   Pause it:     hermes curator pause   Docs:         https://hermes-agent.nousresearch.com/docs/user-guide/features/curator  → Installing agent-browser (default tool; opt out with "
   },
   "chain:dev-loop": {
     "last_dispatch": "2026-09-28T07:40:52Z",
