@@ -1,12 +1,12 @@
 {
   "heartbeat": {
     "last_dispatch": "2026-09-28T01:42:20Z",
-    "last_status": "dispatched",
-    "last_failed": "2026-09-27T17:42:50Z",
-    "total_runs": 69,
+    "last_status": "failed",
+    "last_failed": "2026-09-28T01:45:37Z",
+    "total_runs": 70,
     "total_successes": 0,
-    "total_failures": 69,
-    "consecutive_failures": 69,
+    "total_failures": 70,
+    "consecutive_failures": 70,
     "success_rate": 0,
     "last_error": "are in scope and nothing is ever auto-deleted (archive is recoverable).   Preview now:  hermes curator run --dry-run   Pause it:     hermes curator pause   Docs:         https://hermes-agent.nousresea"
   },
