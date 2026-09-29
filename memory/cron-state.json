@@ -1,12 +1,12 @@
 {
   "heartbeat": {
     "last_dispatch": "2026-09-29T23:01:40Z",
-    "last_status": "dispatched",
-    "last_failed": "2026-09-29T14:05:00Z",
-    "total_runs": 73,
+    "last_status": "failed",
+    "last_failed": "2026-09-29T23:04:55Z",
+    "total_runs": 74,
     "total_successes": 0,
-    "total_failures": 73,
-    "consecutive_failures": 73,
+    "total_failures": 74,
+    "consecutive_failures": 74,
     "success_rate": 0,
     "last_error": "tor run --dry-run   Pause it:     hermes curator pause   Docs:         https://hermes-agent.nousresearch.com/docs/user-guide/features/curator  → Installing agent-browser (default tool; opt out with "
   },
