@@ -1,7 +1,7 @@
 {
   "heartbeat": {
-    "last_dispatch": "2026-09-30T23:33:22Z",
-    "last_status": "failed",
+    "last_dispatch": "2026-10-01T09:10:07Z",
+    "last_status": "dispatched",
     "last_failed": "2026-09-30T23:36:32Z",
     "total_runs": 77,
     "total_successes": 0,
@@ -11,7 +11,7 @@
     "last_error": "tor run --dry-run   Pause it:     hermes curator pause   Docs:         https://hermes-agent.nousresearch.com/docs/user-guide/features/curator  → Installing agent-browser (default tool; opt out with "
   },
   "chain:dev-loop": {
-    "last_dispatch": "2026-09-30T08:22:12Z",
+    "last_dispatch": "2026-10-01T09:10:07Z",
     "last_status": "dispatched"
   }
 }
