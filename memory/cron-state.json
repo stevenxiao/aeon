@@ -1,14 +1,14 @@
 {
   "heartbeat": {
     "last_dispatch": "2026-10-23T00:03:07Z",
-    "last_status": "dispatched",
-    "last_failed": "2026-10-22T17:59:50Z",
-    "total_runs": 139,
+    "last_status": "failed",
+    "last_failed": "2026-10-23T00:05:34Z",
+    "total_runs": 140,
     "total_successes": 0,
-    "total_failures": 139,
-    "consecutive_failures": 139,
+    "total_failures": 140,
+    "consecutive_failures": 140,
     "success_rate": 0,
-    "last_error": ".4  + typing-extensions==4.16.0  + typing-inspection==0.4.4  + uritemplate==4.2.0  + urllib3==2.8.0  + uvicorn==0.41.0  + uvloop==0.22.1  + watchfiles==1.2.0  + wcwidth==0.8.2  + websockets==15.0.1  +"
+    "last_error": "city==9.1.4  + termcolor==3.3.0  + tomli-w==1.2.0  + tqdm==4.70.0  + truststore==0.10.4  + typing-extensions==4.16.0  + typing-inspection==0.4.4  + uritemplate==4.2.0  + urllib3==2.8.0  + uvicorn==0.4"
   },
   "chain:dev-loop": {
     "last_dispatch": "2026-10-22T07:27:05Z",
