@@ -1,14 +1,14 @@
 {
   "heartbeat": {
     "last_dispatch": "2026-11-10T03:45:37Z",
-    "last_status": "dispatched",
-    "last_failed": "2026-11-09T21:33:15Z",
-    "total_runs": 191,
+    "last_status": "failed",
+    "last_failed": "2026-11-10T03:47:39Z",
+    "total_runs": 192,
     "total_successes": 0,
-    "total_failures": 191,
-    "consecutive_failures": 191,
+    "total_failures": 192,
+    "consecutive_failures": 192,
     "success_rate": 0,
-    "last_error": "tte==3.5.0  + starlette==1.9.0  + tenacity==9.2.1  + termcolor==3.3.0  + tomli-w==1.2.0  + tqdm==4.70.1  + truststore==0.10.5  + typing-extensions==4.16.0  + typing-inspection==0.4.4  + uritemplate==4"
+    "last_error": "-clib==0.2.15  + six==1.17.0  + sniffio==1.3.1  + snowballstemmer==3.1.1  + socksio==1.0.0  + sse-starlette==3.5.0  + starlette==1.9.0  + termcolor==3.3.0  + tomli-w==1.2.0  + tqdm==4.70.1  + truststo"
   },
   "chain:dev-loop": {
     "last_dispatch": "2026-11-09T11:21:26Z",
