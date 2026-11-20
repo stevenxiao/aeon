@@ -1,12 +1,12 @@
 {
   "heartbeat": {
     "last_dispatch": "2026-11-20T17:15:44Z",
-    "last_status": "dispatched",
-    "last_failed": "2026-11-20T08:39:21Z",
-    "total_runs": 218,
+    "last_status": "failed",
+    "last_failed": "2026-11-20T17:18:06Z",
+    "total_runs": 219,
     "total_successes": 0,
-    "total_failures": 218,
-    "consecutive_failures": 218,
+    "total_failures": 219,
+    "consecutive_failures": 219,
     "success_rate": 0,
     "last_error": "4.2.0  + urllib3==2.8.0  + uvicorn==0.54.0  + uvloop==0.23.0  + watchfiles==1.3.0  + wcwidth==0.9.2  + websockets==15.0.1  + yarl==1.25.1  + youtube-transcript-api==1.2.4 hermes exited 2: OpenRouter r"
   },
