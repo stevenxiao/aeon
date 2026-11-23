@@ -1,12 +1,12 @@
 {
   "heartbeat": {
     "last_dispatch": "2026-11-23T08:54:31Z",
-    "last_status": "dispatched",
-    "last_failed": "2026-11-22T20:26:28Z",
-    "total_runs": 225,
+    "last_status": "failed",
+    "last_failed": "2026-11-23T08:56:46Z",
+    "total_runs": 226,
     "total_successes": 0,
-    "total_failures": 225,
-    "consecutive_failures": 225,
+    "total_failures": 226,
+    "consecutive_failures": 226,
     "success_rate": 0,
     "last_error": "wcwidth==0.9.2  + websockets==15.0.1  + yarl==1.25.1  + youtube-transcript-api==1.2.4 hermes exited 2: OpenRouter rejected this request as malformed, so the model didn't answer. Start a clean session "
   },
